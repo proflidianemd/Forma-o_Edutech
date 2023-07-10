@@ -5,3 +5,5 @@ color: blue;}
  {width: 10%;
 height: 10%;}
 body {color: blue;}
+
+.cabecalho {display: flex;}
