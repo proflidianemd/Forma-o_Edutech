@@ -6,5 +6,5 @@ color: blue;}
 height: 10%;}
 body {color: blue;}
 
-.cabecalho {display: flex;
+.cabecalho-lista {display: flex;
 justify-content: space-around;}
