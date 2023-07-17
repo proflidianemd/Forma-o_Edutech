@@ -11,5 +11,5 @@ height: 50%;}
 
 body {color: blue;}
 
-.cabecalho-lista-item {display: inline;
+.cabecalho-lista-item {display: flex;
 justify-content: space-around;}
