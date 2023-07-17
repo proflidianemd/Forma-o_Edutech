@@ -4,6 +4,9 @@ color: blue;}
 .cabecalho-imagem
  {width: 10%;
 height: 10%;}
+.cabecalho-imagem2 
+{width: 30%;
+height: 30%;}
 body {color: blue;}
 
 .cabecalho-lista {display: flex;
