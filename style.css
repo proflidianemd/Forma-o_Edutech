@@ -18,9 +18,11 @@ justify-content: space-around;}
 height: 15%;}
 .corpo-imagem {text-align: center;}
 
+.itens p {text-align: center;}
+
 .descricao 
 p{font-color: black}
 .descricao 
 p{font-size: 18px}
 .descricao 
-p{text-align: center;}
+div {text-align: center;}
