@@ -16,7 +16,7 @@ justify-content: space-around;}
 
 .corpo-imagem {width: 15%;
 height: 15%;}
-.corpo-imagem {img;}
+.corpo-imagem {text-align: center;}
 
 .descricao 
 p {font-color: black}
