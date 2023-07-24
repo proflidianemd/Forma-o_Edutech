@@ -14,5 +14,5 @@ body {color: blue;}
 .cabecalho {display: flex;
 justify-content: space-around;}
 
-.corpo-imagem {width: 5%;
-height: 5%;}
+.corpo-imagem {width: 15%;
+height: 15%;}
