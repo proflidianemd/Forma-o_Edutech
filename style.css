@@ -16,8 +16,8 @@ body
 .cabecalho {display: flex;
 justify-content: space-around;}
 
-.corpo-imagem {width: 15%;
-height: 15%;}
+.corpo-imagem {width: 50%;
+height: 50%;}
 .corpo-imagem {text-align: center;}
 
 .itens p {text-align: center;}
