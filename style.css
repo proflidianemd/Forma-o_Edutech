@@ -16,6 +16,7 @@ height: 10%;}
 {font-family: Arial, Helvetica, sans-serif;} 
 {color: blue;}
 .cabecalho-lista-item{padding: 26px}
+{display: flex}
 
 .cabecalho {display:flex;
 justify-content: space-around;}
