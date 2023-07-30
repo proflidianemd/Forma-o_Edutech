@@ -8,7 +8,7 @@ height: 10%;}
 {width: 10%;
 height: 10%;}
 
-.cabacalho-lista {display: inline-block;}
+.cabacalho-lista {display: flex;}
 {margin:50 px;}
 {font-size: 30 px}
 {font-family: Arial, Helvetica, sans-serif;} 
@@ -26,7 +26,7 @@ height: 50%;}
 .corpo-imagem {text-align: center;}
 
 .itens p {text-align: center;}
-.itens {display: inline-block;}
+
 
 .Descricao {padding: 300 px; margin: 100 px;}
 p{font-color: black}
