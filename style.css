@@ -8,12 +8,12 @@ height: 10%;}
 {width: 10%;
 height: 10%;}
 
-.cabacalho-lista {display: inline-flex;}
+.cabecalho-lista {display: inline-flex;}
 {margin:50 px;}
 {font-size: 30 px}
 {font-family: Arial, Helvetica, sans-serif;} 
 {color: blue;}
-{padding: 26px}
+.cabecalho-lista-item{padding: 26px}
 
 .cabecalho {display:flex;
 justify-content: space-around;}
