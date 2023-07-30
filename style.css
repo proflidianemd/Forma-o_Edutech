@@ -14,12 +14,12 @@ height: 10%;}
 {font-family: Arial, Helvetica, sans-serif;} 
 {color: blue;}
 
-.body
-{font-family: Arial, Helvetica, sans-serif;} 
-{color: blue;}
-
 .cabecalho {display: flex;
 justify-content: space-around;}
+
+
+
+
 
 .corpo-imagem {width: 50%;
 height: 50%;}
@@ -34,3 +34,6 @@ p{font-color: black}
 p{font-size: 18px}
 .descricao 
 div {text-align: center;}
+.descricao
+{font-family: Arial, Helvetica, sans-serif;} 
+{color: blue;}
