@@ -14,7 +14,7 @@ height: 10%;}
 {font-family: Arial, Helvetica, sans-serif;} 
 {color: blue;}
 
-.cabecalho {display: inline-flex;
+.cabecalho {display:flex;
 justify-content: space-around;}
 
 
