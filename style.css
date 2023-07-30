@@ -13,10 +13,10 @@ height: 10%;}
 .cabecalho-lista {display: inline-flex;}
 {margin:50 px;}
 {font-size: 30 px}
-{font-family: Arial, Helvetica, sans-serif;} 
 {color: blue;}
 .cabecalho-lista-item{padding: 26px}
 {display: flex}
+{font-family: Arial, Helvetica, sans-serif;} 
 
 .cabecalho {display:flex;
 justify-content: space-around;}
