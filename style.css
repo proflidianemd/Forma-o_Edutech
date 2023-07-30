@@ -25,7 +25,8 @@ justify-content: space-around;}
 height: 50%;}
 .corpo-imagem {text-align: center;}
 
-.itens p {text-align: center;} {align-itens: center}
+.itens p {text-align: center;} 
+.itens {align-itens: center}
 
 
 .Descricao {padding: 300 px; margin: 100 px;}
