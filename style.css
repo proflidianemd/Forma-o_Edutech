@@ -28,6 +28,7 @@ justify-content: space-around;}
 .corpo-imagem {width: 50%;
 height: 50%;}
 .corpo-imagem {text-align: center;}
+.corpo-imagem {justify-content: center;}
 
 .itens p {text-align: center;} 
 
@@ -41,3 +42,4 @@ p{font-size: 15px}
 div {text-align: center;}
 .Descricao
 {font-family: Arial, Helvetica, sans-serif;} 
+{padding: 300 px; margin: 100 px;}
