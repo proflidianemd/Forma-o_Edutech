@@ -32,9 +32,9 @@ height: 50%;}
 
 .itens p {text-align: center;} 
 
-.itensimg {width: 150px;}
-.itensimg {width: 24px;
-    padding: 4px 8px;}
+.itensimg {width: 150px; padding: 50px;} 
+
+ 
 
 .Descricao {padding: 300 px; margin: 100 px;}
 p{font-color: black}
