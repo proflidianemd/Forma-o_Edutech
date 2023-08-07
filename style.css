@@ -34,7 +34,7 @@ height: 50%;}
 
 .itensimg {width: 150px; padding: 50px;} 
 
-.itensimg  {display: grid; grid-template-columns: 10% 10%; align-items: center; }
+.itensimg  {display: grid; grid-template-columns: 10% 10%;  align-items: center; }
 
 .Descricao {padding: 300 px; margin: 100 px;}
 p{font-color: black}
