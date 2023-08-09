@@ -41,7 +41,7 @@ header {background-color: aliceblue;
     .Descricao 
     p{font-size: 15px}
     .Descricao 
-    div {text-align: center;}
+    <div class = itensimg> {text-align: center;}
     .Descricao
     {font-family: Arial, Helvetica, sans-serif;} 
     
