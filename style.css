@@ -46,6 +46,7 @@ header {background-color: aliceblue;
     .Descricao
     {font-family: Arial, Helvetica, sans-serif;} 
     .corpo-texto {padding: 300 px; margin-right: 250px; margin-left: 250px; }
+    .Descricao  {padding: 300 px; margin-right: 250px; margin-left: 250px; }
     
     .corpo-imagem {image-rendering: center;}
     .itens {text-align: center;}
