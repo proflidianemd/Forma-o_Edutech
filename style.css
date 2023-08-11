@@ -33,7 +33,7 @@ header {background-color: aliceblue;
     .itensimg {text-align: center;} 
     .itensimg {padding: 100 px; margin: 100 px;}
     
-    .itensimg {width: 150px; padding: 10px 0;margin-left: 250px;} 
+    .itensimg {width: 150px; padding: 10px 0;margin-left: 150px;} 
     
     .itens-todos {display: grid; grid-template-columns: 33%  33% 33%;  align-items: center; }
     
