@@ -37,7 +37,7 @@ header {background-color: aliceblue;
     .itens-todos {display: grid; grid-template-columns: 33%  33% 33%;  align-items: center; }
     
     
-    .Descricao {padding: 300 px; margin: 100 px;}
+    .Descricao {padding: 100 px; margin: 100 px;}
     p{font-color: black}
     .Descricao 
     p{font-size: 15px}
