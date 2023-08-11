@@ -31,6 +31,7 @@ header {background-color: aliceblue;
     .corpo-imagem {justify-content: center;}
     
     .itensimg {text-align: center;} 
+    .itensimg {padding: 100 px; margin: 100 px;}
     
     .itensimg {width: 150px; padding: 10px 0;} 
     
