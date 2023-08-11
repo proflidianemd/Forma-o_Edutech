@@ -32,7 +32,7 @@ header {background-color: aliceblue;
     
     .itensimg {text-align: center;} 
     
-    .itensimg {width: 150px; padding: 50px;} 
+    .itensimg {width: 150px; padding: 10px;} 
     
     .itensimg  {display: grid; grid-template-columns: 33%  33% 33%;  align-items: center; }
     
