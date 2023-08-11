@@ -45,6 +45,7 @@ header {background-color: aliceblue;
     <div class = itensimg> {text-align: center;}
     .Descricao
     {font-family: Arial, Helvetica, sans-serif;} 
+    .corpo-texto {padding: 300 px; margin: 200px}
     
     .corpo-imagem {image-rendering: center;}
     .itens {text-align: center;}
