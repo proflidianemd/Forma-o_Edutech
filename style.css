@@ -50,7 +50,7 @@ header {background-color: aliceblue;
     .Descricao  {padding: 300 px; margin-right: 250px; margin-left: 250px; }
     .corpo-texto {text-align: justify;}
     
-    .corpo-imagem {margin-right: 550px; margin-left: 550px;}
+    .corpo-imagem {text-align: center ;}
     .itens {text-align: center;}
     .itens{text-align: center;}
 
