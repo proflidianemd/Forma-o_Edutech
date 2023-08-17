@@ -56,4 +56,4 @@ header {background-color: aliceblue;
 
     .rodape-imagem {width: 10%;         height: 10%;} {vertical-align: middle;}
     .rodape-texto {font-family: Arial, Helvetica, sans-serif;}
-    .rodape-texto { display: inline-block; }
+    .rodape-texto { display: inline-block; align-items: center;}
